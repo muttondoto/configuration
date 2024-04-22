@@ -1,0 +1,55 @@
+
+[colors.bright]
+black = "#c8c8c8"
+blue = "#bddff7"
+cyan = "#ff0000"
+green = "#c8e2b9"
+magenta = "#fce2ff"
+red = "#ffb2b0"
+white = "#feffff"
+yellow = "#ffe1af"
+
+[colors.cursor]
+cursor = "#ff0051"
+text = "#feffff"
+
+[colors.normal]
+black = "#1e1e1e"
+blue = "#85fffb"
+cyan = "#ff0061"
+green = "#adf7b6"
+magenta = "#b200ff"
+red = "#ff8a22"
+white = "#ffffff"
+yellow = "#ffc900"
+
+[colors.primary]
+foreground = "#feffff"
+
+[colors.selection]
+background = "#faff97"
+text = "#5963a2"
+
+[cursor.style]
+shape = "Block"
+
+[font]
+size = 11.0
+
+[font.normal]
+family = "CaskaydiaCove Nerd Font Mono"
+
+[font.bold]
+family = "CaskaydiaCove NFM"
+
+[font.italic]
+family = "CaskaydiaCove NF"
+
+[window]
+opacity = 0.8
+startup_mode = "Maximized"
+title = "Alacritty"
+
+[window.padding]
+x = 10
+y = 10

@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/einar/.vim'
+let g:netrw_dirhist_2='/home/einar'
+let g:netrw_dirhist_1='/home'
+let g:netrw_dirhist_0='/home/einar'
+let g:netrw_dirhist_9='/home/einar/.config'
+let g:netrw_dirhist_8='/home/einar/.config/fish'
+let g:netrw_dirhist_7='/home/einar/.config/fish/completions'
+let g:netrw_dirhist_6='/home/einar/.config/fish'
+let g:netrw_dirhist_5='/home/einar/.config/fish/completions'
+let g:netrw_dirhist_4='/home/einar/.config/fish'
